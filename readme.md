@@ -9,8 +9,19 @@ It is used to manage Tickets, Visa, Accounting, Guest House & Hotels ...etc.
  
  
  ## System development
- - The system is developed using PHP, Laravel Framework, Angular.js, Ajax and MySQL
+ - The system is developed using PHP, Laravel Framework, Angular.js, Bootstrap, Ajax and MySQL
  
+ <h2>Developer: SIMON OKBAGERGIS MANNA</h2> <br/>
+
+ ## System Features
+ It has the following features.
+-	Manage and maintain Passengers details
+-	Register and manage Airlines
+-	Register and Manage any kind of Ticket and Visa Sales
+-	Manage Car rentals and Guest house services
+-	Manage all expenses of the company
+-	Generate Sales, Financial, Income Expense reports
+
  
 #How to use it
 - Install wamp, xammp or mamp or any comfortable php and mysql running software

@@ -11,7 +11,7 @@ It is used to manage Tickets, Visa, Accounting, Guest House & Hotels ...etc.
  ## System development
  - The system is developed using PHP, Laravel Framework, Angular.js, Bootstrap, Ajax and MySQL
  
- <h2>Developer: SIMON OKBAGERGIS MANNA</h2> <br/>
+ <h2>Developer: SIMON MANNA</h2> <br/>
 
  ## System Features
  It has the following features.
